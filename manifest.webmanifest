@@ -1,0 +1,18 @@
+{
+ "id":"/",
+ "name":"耆宿说 QISUSHUO",
+ "short_name":"耆宿说",
+ "description":"与专家数字人展开有温度的知识对话。虚构专家与模拟问答，支持离线体验。",
+ "lang":"zh-CN",
+ "start_url":"/",
+ "scope":"/",
+ "display":"standalone",
+ "background_color":"#faf9f6",
+ "theme_color":"#354d40",
+ "orientation":"any",
+ "icons":[
+  {"src":"/icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
+  {"src":"/icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"},
+  {"src":"/icons/icon-maskable-512.png","sizes":"512x512","type":"image/png","purpose":"maskable"}
+ ]
+}
